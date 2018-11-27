@@ -1,0 +1,21 @@
+Problem1:
+
+Try not to split each partial exercise into a separate file :)
+
+C,d,f: 	DtDt(u, t): is wrongly defined. Shuld use discrete version here. 
+
+
+
+Problem 21:
+
+a) Program stops due to "Invalid syntax". We tried to fix some errors, but code is not finished.
+
+b) test_equi.. is never run, so program doesnt do anything. Nosetest fails due to simulate() isnt defined or imported. However, the code could work if run and simulate() were available :)
+
+c) Same problems as in c). Code not finished
+
+Conclusion:
+Much of the code looks correct, but its simply not finished.
+------------
+Not approved
+------------
